@@ -1,7 +1,7 @@
 title: "Affiliates"
 email: zypixllc@gmail.com
 timezone: America/Los_Angeles
-baseurl: "/blog"
+baseurl: "/moneyblog"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
